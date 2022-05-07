@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: hwb(214 5% 57%);
+}
+
+#main-play-area {
+    background-color: black;
+    background-image: url('../img/space.png');
+    height: 600px;
+    width: 600px;
+}
